@@ -4,8 +4,6 @@
 
 A minimal SDDM login theme inspired by **Serial Experiments Lain**. Dark blues, monospace typography, scanline overlay, and floating code particles. Built for Wayland and X11.
 
-![background](background.png)
-
 ---
 
 ## Files
